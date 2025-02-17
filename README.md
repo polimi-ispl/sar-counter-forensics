@@ -2,7 +2,7 @@
 
 [**Hiding Local Manipulations on SAR Images: a Counter-Forensic Attack**](https://arxiv.org/pdf/2407.10736), currently under review.
 
-Sara Mandelli, Edoardo Daniele Cannas, Paolo Bestagini, Stefano Tebaldini Stefano Tubaro<br/>
+Sara Mandelli, Edoardo Daniele Cannas, Paolo Bestagini, Stefano Tebaldini and Stefano Tubaro<br/>
 [Image and Sound Processing Lab - Politecnico di Milano](http://ispl.deib.polimi.it/)
 
 
